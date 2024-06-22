@@ -1,1 +1,0 @@
-# Godot Yandex Ads Android
