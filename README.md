@@ -1,25 +1,34 @@
-## DARK NIGHT
+# Project and Knowledge Base Repository
 
-- [x] **[Rain:](Projects/DARK%20NIGHT/Rain/README.md)** A weather viewing application
-- [x] **[ToDark:](Projects/DARK%20NIGHT/ToDark/README.md)** A task management application
-- [x] **[IKMS:](Projects/DARK%20NIGHT/IKMS/README.md)** A university schedule viewing application
-- [ ] **[Wave:](Projects/DARK%20NIGHT/Wave/README.md)** A radio listening application
-- [ ] **[Life:](Projects/DARK%20NIGHT/Life/README.md)** A personal diary keeping application
-- [ ] **[Step:](Projects/DARK%20NIGHT/Step/README.md)** A habit training application
-- [ ] **[Coin:](Projects/DARK%20NIGHT/Coin/README.md)** A financial management application
+Welcome to my personal repository where I store information about my projects and my knowledge base. This repository is organized to help me manage my project documentation and notes efficiently.
 
-## Noctis Salamandra
+## Table of Contents
+- [Projects](#projects)
+- [Knowledge Base](#knowledge-base)
+- [Usage](#usage)
+- [Contributing](#contributing)
 
-- [x] **[Godot Yandex Ads Android:](Projects/Noctis%20Salamandra/Godot%20Yandex%20Ads%20Android/README.md)** A Yandex advertising plugin for Godot on Android
-- [x] **[Godot Vk Ads Android:](Projects/Noctis%20Salamandra/Godot%20Vk%20Ads%20Android/README.md)** A Vk advertising plugin for Godot on Android
+## Projects
+In this section, you will find detailed information about my various projects. 
+For more details on each project, navigate to the respective folder.
 
-## Uroboros
+## Knowledge Base
+The knowledge base is where I store my notes, research, and learning materials. It is divided into different categories for easy navigation.
 
-- [ ] **[Moon:](Projects/Uroboros/Moon/README.md)** An application for finding useful acquaintances and interesting projects
-- [ ] **[Yard:](Projects/Uroboros/Yard/README.md)** An application for finding sports grounds and events
-- [ ] **[Sun:](Projects/Uroboros/Sun/README.md)** A dating application based on interests
+## Usage
+To use this repository effectively, follow these guidelines:
 
-## Other
+1. **Cloning the Repository**: Clone the repository to your local machine using `git clone`.
+2. **Navigating the Repository**: Use a markdown editor like Obsidian to navigate through the files and folders.
+3. **Updating the Repository**: Feel free to update or add new information as needed. Make sure to follow the existing folder structure for consistency.
 
-- [ ] **[Website:](Projects/Other/Website/README.md)** A website with projects and information about our activities
+## Contributing
+If you would like to contribute to this repository, please follow these steps:
 
+1. **Fork the Repository**: Create a fork of this repository.
+2. **Create a Branch**: Create a new branch for your changes.
+3. **Submit a Pull Request**: Submit a pull request with a detailed description of your changes.
+
+---
+
+Thank you for visiting my repository! I hope you find the information here useful. If you have any questions or suggestions, feel free to open an issue or contact me directly.

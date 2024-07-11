@@ -10,12 +10,14 @@
 - [ ] Add a description to all the indicators
 - [ ] Add ongoing notifications
 - [ ] Add information about allergens
-- [ ] Redo the weather page for the day
-	- [ ] Add an hourly forecast
+- [x] Redo the weather page for the day
+	- [x] Add an hourly forecast
 - [ ] Add the ability to change icons
 - [ ] Add the option to show high temperatures first
 - [ ] Fix errors
-- [ ] Redesign the main screen
-	- [ ] Add a temperature type
-	- [ ] Display more information
+- [x] Redesign the main screen
+	- [x] Add a temperature type
+	- [x] Display more information
 - [ ] Update the weather every 15 minutes
+- [ ] Add a notification by day
+- [x] Search for weather cards in cities
