@@ -2,9 +2,9 @@
 
 #### **Tasks:**
 
-- [ ]  Fix permission issues
-	- [ ] Internet
-	- [ ] READ_EXTERNAL_STORAGE
+- [x]  Fix permission issues
+	- [x] Internet
+	- [x] READ_EXTERNAL_STORAGE
 - [ ] Add a widget
 - [ ] Add recurring notifications
 - [ ] Add recursive tasks
