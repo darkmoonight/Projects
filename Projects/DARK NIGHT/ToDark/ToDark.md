@@ -16,3 +16,4 @@
 - [ ] Add tags to tasks
 - [ ] Add the ability to move categories and tasks
 - [ ] Add the ability to work with Markdown
+- [ ] Add notes

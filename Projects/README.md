@@ -7,6 +7,10 @@
 - [ ] **[Life:](Life.md)** A personal diary keeping application
 - [ ] **[Step:](Step.md)** A habit training application
 - [ ] **[Coin:](Coin.md)** A financial management application
+- [ ] **[News:](News.md)** A news viewing application
+- [ ] **[Verto:](Verto.md)** A translation application
+- [ ] **[Control:](Control.md)** A remote device management application
+- [ ] **[Clock:](Clock.md)** A clock, timer, and alarm application
 
 ## Noctis Salamandra
 
