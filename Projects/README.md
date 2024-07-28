@@ -11,6 +11,8 @@
 - [ ] **[Verto:](Verto.md)** A translation application
 - [ ] **[Control:](Control.md)** A remote device management application
 - [ ] **[Clock:](Clock.md)** A clock, timer, and alarm application
+- [ ] **[Pass:](Pass.md)** A password storage and generation application
+- [ ] **[Vibe:](Vibe.md)** A YouTube music and video client application
 
 ## Noctis Salamandra
 
