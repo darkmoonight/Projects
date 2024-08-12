@@ -17,3 +17,4 @@
 - [ ] Add the ability to move categories and tasks
 - [ ] Add the ability to work with Markdown
 - [ ] Add notes
+- [ ] Improve the way out of the task/category addition form
