@@ -23,9 +23,12 @@
 	- [x] Display more information
 - [ ] Update the weather every 15 minutes
 - [ ] Add a notification by day
-- [ ] Map
-	- [ ] Add a map with points
-	- [ ] Search the map
-	- [ ] Add new points
-- [ ] Add cache cleanup
+- [x] Map
+	- [x] Add a map with points
+	- [x] Search the map
+	- [x] Add marker Information display
+	- [x] Add new points
+	- [x] Fix the animation of switching between placemarks on the map
+- [x] Add cache cleanup
+- [x] Add a map search to the home page
 - [x] Search for weather cards in cities
