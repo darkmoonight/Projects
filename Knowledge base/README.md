@@ -22,6 +22,7 @@
 - **[Flutter Roadmap:](https://roadmap.sh/flutter)** A roadmap for learning Flutter, a framework for cross-platform application development.
 - **[Bloc:](https://github.com/felangel/bloc)** Guides and resources for using the Bloc library to manage state in Flutter applications.
 - **[Drift:](https://drift.simonbinder.eu/)** Documentation and examples for using Drift, a database library for Flutter.
+- **[Jaspr](https://docs.page/schultek/jaspr):** Jaspr is an modern web framework for building websites in Dart with support for both client-side and server-side rendering.
 
 ### Android
 - **[Android Roadmap:](https://roadmap.sh/android)** A roadmap for learning Android application development, covering all necessary technologies and tools.
