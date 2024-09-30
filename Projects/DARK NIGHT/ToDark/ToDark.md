@@ -18,9 +18,11 @@
 - [ ] Add the ability to work with Markdown
 - [ ] Add notes
 - [ ] Add statistics
-- [ ] Add a Swipe gesture on the bottom panel
+- [x] Add a Swipe gesture on the bottom panel
 - [ ] Remember calendar view preference
 - [ ] Notification action buttons
-- [ ] Keyboard collapse on category selection
+- [x] Keyboard collapse on category selection
 - [ ] Default screen on startup
+- [ ] Add a ringtone
+- [ ] Add a tag search
 - [x] Improve the way out of the task/category addition form
