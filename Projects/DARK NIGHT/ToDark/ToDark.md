@@ -19,10 +19,14 @@
 - [ ] Add notes
 - [ ] Add statistics
 - [x] Add a Swipe gesture on the bottom panel
-- [ ] Remember calendar view preference
+- [x] Remember calendar view preference
 - [ ] Notification action buttons
 - [x] Keyboard collapse on category selection
 - [ ] Default screen on startup
 - [ ] Add a ringtone
 - [ ] Add a tag search
 - [x] Improve the way out of the task/category addition form
+- [ ] App shortcuts
+- [ ] Make the "Choose a category" field a list of items
+- [ ] New entry dialog focus
+- [ ] Todo list sorting options
