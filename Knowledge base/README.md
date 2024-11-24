@@ -1,42 +1,33 @@
 # Roadmap
 
 ### Linux
-- **[Linux Roadmap:](https://roadmap.sh/linux)** This roadmap provides a comprehensive guide to mastering Linux, covering essential topics like command-line basics, system administration, networking, and security.
-- **[NixOS:](https://nixos.org/)** NixOS is a unique Linux distribution built on top of the Nix package manager, known for its declarative configuration model and reliable system upgrades.
-- **[Hyprland:](https://hyprland.org/)** Hyprland is a dynamic tiling Wayland compositor that aims to provide a customizable and efficient desktop experience for Linux users.
-
+- **[Linux Roadmap:](https://roadmap.sh/linux)** Step by step guide to learning Linux.
 ### Basics of Programming
-- **[Data Structures & Algorithms:](https://roadmap.sh/datastructures-and-algorithms)** A roadmap covering the essential data structures and algorithms needed for programming.
-- **[Software Architect:](https://roadmap.sh/software-architect)** A guide to developing the skills and knowledge required to become a successful software architect.
-- **[Software Design and Architecture:](https://roadmap.sh/software-design-architecture)** A step-by-step guide to software design and architecture.
-
+- **[Data Structures & Algorithms:](https://roadmap.sh/datastructures-and-algorithms)** Step by step guide to learn Data Structures and Algorithms.
+- **[Software Architect:](https://roadmap.sh/software-architect)** Step by step guide to becoming a Software Architect.
+- **[Software Design and Architecture:](https://roadmap.sh/software-design-architecture)** Step by step guide to learn software design and architecture.
 ### Data Analyst/Engineer/Scientist
 - **[Python:](https://roadmap.sh/python)** Step by step guide to becoming a Python developer.
 - **[Data Analyst Roadmap:](https://roadmap.sh/data-analyst)** Step by step guide to becoming an Data Analyst.
 - **[MLOps Roadmap:](https://roadmap.sh/mlops)** Step by step guide to learn MLOps.
-
 ### SQL
-- **[PostgreSQL Roadmap:](https://roadmap.sh/postgresql-dba)** A step-by-step guide to learning PostgreSQL and becoming a database administrator.
 - **[SQL Roadmap:](https://roadmap.sh/sql)** Step by step guide to learning SQL.
-
+- **[PostgreSQL Roadmap:](https://roadmap.sh/postgresql-dba)** Step by step guide to becoming a modern PostgreSQL DB Administrator.
 ### Git
 - **[Git Documentation:](https://git-scm.com/doc)** The official Git documentation, providing a comprehensive description of commands and features for this version control system.
-
-### Backend Developer
-- **[Backend Roadmap:](https://roadmap.sh/backend)** A roadmap for learning and becoming a backend developer, including technologies and skills.
-- **[Go Roadmap:](https://roadmap.sh/golang)** This roadmap provides a path to mastering Go (Golang), a statically typed, compiled programming language designed for simplicity and efficiency.
-
+- **[Git and GitHub:](https://roadmap.sh/git-github)** Step by step guide to learn Git and GitHub.
+### Web Development
+- **[JavaScript Roadmap:](https://roadmap.sh/javascript)** Step by step guide to learn JavaScript.
+- **[TypeScript Roadmap:](https://roadmap.sh/typescript)** Everything you need to learn about TypeScript.
+- **[Node.js Developer:](https://roadmap.sh/nodejs)** Step by step guide to becoming a modern Node.js developer.
+- **[Redis Roadmap:](https://roadmap.sh/redis)** Step by step guide to learn Redis.
+- **[React Developer:](https://roadmap.sh/react)** Everything that is there to learn about React and the ecosystem.
+- **[Frontend Developer:](https://roadmap.sh/frontend)** Step by step guide to becoming a modern frontend developer.
+- **[Backend Roadmap:](https://roadmap.sh/backend)** Step by step guide to becoming a modern backend developer.
+### Docker
+- **[Docker Roadmap:](https://roadmap.sh/docker)** Step by step guide to learning Docker.
 ### Flutter
-- **[Flutter Roadmap:](https://roadmap.sh/flutter)** A roadmap for learning Flutter, a framework for cross-platform application development.
+- **[Flutter Roadmap:](https://roadmap.sh/flutter)** Step by step guide to becoming a Flutter developer.
 - **[Bloc:](https://github.com/felangel/bloc)** Guides and resources for using the Bloc library to manage state in Flutter applications.
 - **[Drift:](https://drift.simonbinder.eu/)** Documentation and examples for using Drift, a database library for Flutter.
-- **[Jaspr](https://docs.page/schultek/jaspr):** Jaspr is an modern web framework for building websites in Dart with support for both client-side and server-side rendering.
 
-### Android
-- **[Android Roadmap:](https://roadmap.sh/android)** A roadmap for learning Android application development, covering all necessary technologies and tools.
-
-### Docker
-- **[Docker Roadmap:](https://roadmap.sh/docker)** A step-by-step guide to learning Docker, a platform for automating application deployment in containers.
-
-### Rust
-- **[Rust Roadmap:](https://roadmap.sh/rust)** A roadmap for learning the Rust programming language, known for its safety and performance.
