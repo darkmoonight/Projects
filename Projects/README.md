@@ -24,6 +24,7 @@
 - [ ] **[Moon:](Moon.md)** An application for finding useful acquaintances and interesting projects
 - [ ] **[Yard:](Yard.md)** An application for finding sports grounds and events
 - [ ] **[Sun:](Sun.md)** A dating application based on interests
+- [ ] **[Challenge Me!:](ChallengeMe.md)** A game with a bunch of mini games
 
 ## Other
 

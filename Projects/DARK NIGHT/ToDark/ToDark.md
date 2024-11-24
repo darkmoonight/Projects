@@ -24,7 +24,7 @@
 - [x] Keyboard collapse on category selection
 - [ ] Default screen on startup
 - [ ] Add a ringtone
-- [ ] Add a tag search
+- [ ] Add a tag and descriptions search
 - [x] Improve the way out of the task/category addition form
 - [ ] App shortcuts
 - [ ] Make the "Choose a category" field a list of items

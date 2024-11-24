@@ -10,13 +10,21 @@
 - **[Software Architect:](https://roadmap.sh/software-architect)** A guide to developing the skills and knowledge required to become a successful software architect.
 - **[Software Design and Architecture:](https://roadmap.sh/software-design-architecture)** A step-by-step guide to software design and architecture.
 
+### Data Analyst/Engineer/Scientist
+- **[Python:](https://roadmap.sh/python)** Step by step guide to becoming a Python developer.
+- **[Data Analyst Roadmap:](https://roadmap.sh/data-analyst)** Step by step guide to becoming an Data Analyst.
+- **[MLOps Roadmap:](https://roadmap.sh/mlops)** Step by step guide to learn MLOps.
+
+### SQL
+- **[PostgreSQL Roadmap:](https://roadmap.sh/postgresql-dba)** A step-by-step guide to learning PostgreSQL and becoming a database administrator.
+- **[SQL Roadmap:](https://roadmap.sh/sql)** Step by step guide to learning SQL.
+
 ### Git
 - **[Git Documentation:](https://git-scm.com/doc)** The official Git documentation, providing a comprehensive description of commands and features for this version control system.
 
 ### Backend Developer
 - **[Backend Roadmap:](https://roadmap.sh/backend)** A roadmap for learning and becoming a backend developer, including technologies and skills.
 - **[Go Roadmap:](https://roadmap.sh/golang)** This roadmap provides a path to mastering Go (Golang), a statically typed, compiled programming language designed for simplicity and efficiency.
-- **[PostgreSQL Roadmap:](https://roadmap.sh/postgresql-dba)** A step-by-step guide to learning PostgreSQL and becoming a database administrator.
 
 ### Flutter
 - **[Flutter Roadmap:](https://roadmap.sh/flutter)** A roadmap for learning Flutter, a framework for cross-platform application development.
