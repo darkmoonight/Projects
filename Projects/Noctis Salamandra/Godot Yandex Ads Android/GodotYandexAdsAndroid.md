@@ -2,6 +2,6 @@
 
 #### **Tasks:**
 
-- [ ]  Implement a plugin for an older version of Godot.
-	- [ ] Godot 4.3
-	- [ ] Godot 3.6
+- [ ]  Implement the plugin for the newer version of Godot.
+	- [x] Godot 4.3
+	- [ ] Godot 4.4
