@@ -15,6 +15,7 @@
 - [ ] Add the ability to change icons
 - [ ] Add the option to show high temperatures first
 - [ ] Fix errors
+- [ ] Migrate to another database
 - [x] Km/s in m/s and hPa in mmHg
 - [x] Redo the form for adding a city
 - [x] Add the apparent temperature to the top tile

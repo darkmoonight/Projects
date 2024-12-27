@@ -30,3 +30,4 @@
 - [ ] Make the "Choose a category" field a list of items
 - [ ] New entry dialog focus
 - [ ] Todo list sorting options
+- [ ] Migrate to another database
