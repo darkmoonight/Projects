@@ -28,6 +28,6 @@
 - **[Docker Roadmap:](https://roadmap.sh/docker)** Step by step guide to learning Docker.
 ### Flutter
 - **[Flutter Roadmap:](https://roadmap.sh/flutter)** Step by step guide to becoming a Flutter developer.
-- **[Bloc:](https://github.com/felangel/bloc)** Guides and resources for using the Bloc library to manage state in Flutter applications.
+- **[Riverpod](https://riverpod.dev/)** Guides and resources for using the Riverpod library to manage state in Flutter applications.
 - **[Drift:](https://drift.simonbinder.eu/)** Documentation and examples for using Drift, a database library for Flutter.
 
