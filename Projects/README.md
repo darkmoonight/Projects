@@ -4,8 +4,6 @@
 - [x] **[Zest:](Zest.md)** A task management application
 - [x] **[IKMS:](IKMS.md)** A university schedule viewing application
 - [ ] **[Wave:](Wave.md)** A radio listening application
-- [ ] **[Life:](Life.md)** A personal diary keeping application
-- [ ] **[Step:](Step.md)** A habit training application
 - [ ] **[Coin:](Coin.md)** A financial management application
 - [ ] **[News:](News.md)** A news viewing application
 - [ ] **[Verto:](Verto.md)** A translation application

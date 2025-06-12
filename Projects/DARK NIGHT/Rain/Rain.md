@@ -33,3 +33,4 @@
 - [x] Add cache cleanup
 - [x] Add a map search to the home page
 - [x] Search for weather cards in cities
+- [ ] Edit a city card

@@ -22,7 +22,7 @@
 - [x] Remember calendar view preference
 - [ ] Notification action buttons
 - [x] Keyboard collapse on category selection
-- [ ] Default screen on startup
+- [x] Default screen on startup
 - [ ] Add a ringtone
 - [ ] Add a tag and descriptions search
 - [x] Improve the way out of the task/category addition form
