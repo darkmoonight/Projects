@@ -1,19 +1,15 @@
 # Project and Knowledge Base Repository
 
-Welcome to my personal repository where I store information about my projects and my knowledge base. This repository is organized to help me manage my project documentation and notes efficiently.
+Welcome to my personal repository where I store information about my projects. This repository is organized to help me manage my project documentation and notes efficiently.
 
 ## Table of Contents
 - [Projects](#projects)
-- [Knowledge Base](#knowledge-base)
 - [Usage](#usage)
 - [Contributing](#contributing)
 
 ## Projects
 In this section, you will find detailed information about my various projects. 
 For more details on each project, navigate to the respective folder.
-
-## Knowledge Base
-The knowledge base is where I store my notes, research, and learning materials. It is divided into different categories for easy navigation.
 
 ## Usage
 To use this repository effectively, follow these guidelines:

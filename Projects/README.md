@@ -6,8 +6,6 @@
 - [ ] **[Wave:](Wave.md)** A radio listening application
 - [ ] **[Coin:](Coin.md)** A financial management application
 - [ ] **[News:](News.md)** A news viewing application
-- [ ] **[Verto:](Verto.md)** A translation application
-- [ ] **[Control:](Control.md)** A remote device management application
 - [ ] **[Clock:](Clock.md)** A clock, timer, and alarm application
 - [ ] **[Pass:](Pass.md)** A password storage and generation application
 
@@ -15,13 +13,6 @@
 
 - [x] **[Godot Yandex Ads Android:](GodotYandexAdsAndroid.md)** A Yandex advertising plugin for Godot on Android
 - [x] **[Godot Vk Ads Android:](GodotVkAdsAndroid.md)** A Vk advertising plugin for Godot on Android
-
-## Uroboros
-
-- [ ] **[Moon:](Moon.md)** An application for finding useful acquaintances and interesting projects
-- [ ] **[Sun:](Sun.md)** A dating application based on interests
-- [ ] **[Challenge Me!:](ChallengeMe.md)** A game with a bunch of mini games
-- [ ] **[Penguin 1:](Penguin1.md)** The first penguin game
 
 ## Other
 
