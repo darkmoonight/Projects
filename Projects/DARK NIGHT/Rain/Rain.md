@@ -15,7 +15,7 @@
 - [ ] Add the ability to change icons
 - [ ] Add the option to show high temperatures first
 - [ ] Fix errors
-- [ ] Migrate to another database
+- [x] Migrate to another database
 - [x] Km/s in m/s and hPa in mmHg
 - [x] Redo the form for adding a city
 - [x] Add the apparent temperature to the top tile
@@ -34,3 +34,4 @@
 - [x] Add a map search to the home page
 - [x] Search for weather cards in cities
 - [ ] Edit a city card
+- [ ] Fix the error with the beginning and end of notifications in 12 hour format

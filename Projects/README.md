@@ -3,6 +3,7 @@
 - [x] **[Rain:](Rain.md)** A weather viewing application
 - [x] **[Zest:](Zest.md)** A task management application
 - [x] **[IKMS:](IKMS.md)** A university schedule viewing application
+- [ ] **[Step:](Step.md)** Step counting application
 - [ ] **[Wave:](Wave.md)** A radio listening application
 - [ ] **[Coin:](Coin.md)** A financial management application
 - [ ] **[News:](News.md)** A news viewing application

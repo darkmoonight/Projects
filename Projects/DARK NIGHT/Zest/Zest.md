@@ -30,4 +30,5 @@
 - [ ] Make the "Choose a category" field a list of items
 - [ ] New entry dialog focus
 - [ ] Todo list sorting options
-- [ ] Migrate to another database
+- [x] Migrate to another database
+- [ ] Autohide the floating action button on scroll
