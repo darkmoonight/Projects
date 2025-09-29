@@ -32,3 +32,4 @@
 - [ ] Todo list sorting options
 - [x] Migrate to another database
 - [ ] Autohide the floating action button on scroll
+- [ ] Screen privacy

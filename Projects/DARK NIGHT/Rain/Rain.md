@@ -34,4 +34,4 @@
 - [x] Add a map search to the home page
 - [x] Search for weather cards in cities
 - [ ] Edit a city card
-- [ ] Fix the error with the beginning and end of notifications in 12 hour format
+- [x] Fix the error with the beginning and end of notifications in 12 hour format
