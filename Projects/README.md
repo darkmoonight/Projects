@@ -12,8 +12,8 @@
 
 ## Noctis Salamandra
 
-- [x] **[Godot Yandex Ads Android:](GodotYandexAdsAndroid.md)** A Yandex advertising plugin for Godot on Android
-- [x] **[Godot Vk Ads Android:](GodotVkAdsAndroid.md)** A Vk advertising plugin for Godot on Android
+- [x] **[Godot Yandex Ads Android:]()** A Yandex advertising plugin for Godot on Android
+- [x] **[Godot Vk Ads Android:]()** A Vk advertising plugin for Godot on Android
 
 ## Other
 

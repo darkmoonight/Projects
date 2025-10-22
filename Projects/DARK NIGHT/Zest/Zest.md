@@ -24,12 +24,12 @@
 - [x] Keyboard collapse on category selection
 - [x] Default screen on startup
 - [ ] Add a ringtone
-- [ ] Add a tag and descriptions search
+- [x] Add a tag and descriptions search
 - [x] Improve the way out of the task/category addition form
 - [ ] App shortcuts
-- [ ] Make the "Choose a category" field a list of items
-- [ ] New entry dialog focus
+- [x] Make the "Choose a category" field a list of items
+- [x] New entry dialog focus
 - [ ] Todo list sorting options
 - [x] Migrate to another database
-- [ ] Autohide the floating action button on scroll
+- [x] Autohide the floating action button on scroll
 - [ ] Screen privacy
