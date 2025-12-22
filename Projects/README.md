@@ -4,16 +4,16 @@
 - [x] **[Zest:](Zest.md)** A task management application
 - [x] **[IKMS:](IKMS.md)** A university schedule viewing application
 - [ ] **[Step:](Step.md)** Step counting application
+- [ ] **[Clock:](Clock.md)** A clock, timer, and alarm application
+- [ ] **[Pass:](Pass.md)** A password storage and generation application
 - [ ] **[Wave:](Wave.md)** A radio listening application
 - [ ] **[Coin:](Coin.md)** A financial management application
 - [ ] **[News:](News.md)** A news viewing application
-- [ ] **[Clock:](Clock.md)** A clock, timer, and alarm application
-- [ ] **[Pass:](Pass.md)** A password storage and generation application
 
 ## Noctis Salamandra
 
-- [x] **[Godot Yandex Ads Android:]()** A Yandex advertising plugin for Godot on Android
-- [x] **[Godot Vk Ads Android:]()** A Vk advertising plugin for Godot on Android
+- [x] **Godot Yandex Ads Android:** A Yandex advertising plugin for Godot on Android
+- [x] **Godot Vk Ads Android:** A Vk advertising plugin for Godot on Android
 
 ## Other
 

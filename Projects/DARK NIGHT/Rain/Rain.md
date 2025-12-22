@@ -13,7 +13,7 @@
 - [x] Redo the weather page for the day
 	- [x] Add an hourly forecast
 - [ ] Add the ability to change icons
-- [ ] Add the option to show high temperatures first
+- [x] Add the option to show high temperatures first
 - [x] Fix errors
 - [x] Migrate to another database
 - [x] Km/s in m/s and hPa in mmHg

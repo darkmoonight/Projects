@@ -7,14 +7,14 @@
 	- [x] READ_EXTERNAL_STORAGE
 - [ ] Add a widget
 - [ ] Add recurring notifications
-- [ ] Add recursive tasks
+- [x] Add recursive tasks
 - [ ] Add a category in which all tasks will be by default with recurring notifications
 - [x] Add the ability to set task priority
 - [ ] Add additional category tabs
-- [ ] Add the ability to clear all list items
+- [x] Add the ability to clear all list items
 - [ ] Add the option to enable automatic backup
 - [x] Add tags to tasks
-- [ ] Add the ability to move categories and tasks
+- [x] Add the ability to move categories and tasks
 - [ ] Add the ability to work with Markdown
 - [ ] Add notes
 - [ ] Add statistics
@@ -26,10 +26,10 @@
 - [ ] Add a ringtone
 - [x] Add a tag and descriptions search
 - [x] Improve the way out of the task/category addition form
-- [ ] App shortcuts
+- [x] App shortcuts
 - [x] Make the "Choose a category" field a list of items
 - [x] New entry dialog focus
-- [ ] Todo list sorting options
+- [x] Todo list sorting options
 - [x] Migrate to another database
 - [x] Autohide the floating action button on scroll
-- [ ] Screen privacy
+- [x] Screen privacy
